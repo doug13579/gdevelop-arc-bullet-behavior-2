@@ -300,32 +300,6 @@
               "type": "DestroyOutsideBehavior::DestroyOutside"
             },
             {
-              "name": "SpeedPathMovement",
-              "type": "CurvedMovement::SpeedPathMovement",
-              "Rotation": true,
-              "RotationOffset": 0,
-              "Speed": 0,
-              "PathOriginX": 2.0247e-320,
-              "PathOriginY": 2.0247e-320,
-              "PathName": "",
-              "TargetedSpeed": 0,
-              "Acceleration": 0,
-              "DrawingElementIndex": 0,
-              "X": 2.0247e-320,
-              "Y": 2.0247e-320,
-              "PathAngle": 2.0247e-320,
-              "PathScale": 2.0247e-320,
-              "RepetitionCount": 2.0247e-320,
-              "ShouldLoop": false,
-              "DrawingPathOriginX": 2.0247e-320,
-              "DrawingPathOriginY": 2.0247e-320,
-              "DebugLineStrokeWidth": 2.0247e-320,
-              "PreviousSpeed": 2.0247e-320,
-              "CurrentLength": 2.0247e-320,
-              "IsLookingBack": false,
-              "Viewpoint": "Top-Down"
-            },
-            {
               "name": "arc2",
               "type": "UntitledExtension::arc2",
               "SpeedX": 1,
@@ -885,10 +859,6 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "SpeedPathMovement",
-          "type": "CurvedMovement::SpeedPathMovement"
         },
         {
           "name": "arc2",
